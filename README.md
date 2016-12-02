@@ -1,2 +1,2 @@
-# wcs-wiki
-The official Women in Computer Science at the Univeristy of Illinois at Urbana-Champaign wiki
+# Women in Computer Science Wiki
+The official Women in Computer Science at the University of Illinois at Urbana-Champaign wiki
